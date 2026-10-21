@@ -7,3 +7,6 @@
 
 ### mas ejemplos de array 
 ![alt text](image-2.png)
+
+## resultados 
+![alt text](image-3.png)
